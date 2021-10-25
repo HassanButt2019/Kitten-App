@@ -1,0 +1,12 @@
+1)sab se pehly apne 3 main folders bananay hain 
+    -Model
+    -statemanagement
+    -view
+2)phir apne model mai 4 or folders banany hain
+     -Core (jis mai app class banao gy data class is mai app tojson or from json k functions bhi banao gy)
+     -Error class banao gy is mai mai ne glitch k naam se banai hain
+     -helper jo apkay raw data ko application k leyie tayar krey gi or suitable error attach kreygi
+     -Services jis mai app endpoints pr hit kro gy
+3) phr ap ne statemanagement k folder mai jaise mai ne provider use kia hai app kuch or b use kr skhty ho 
+4) simple view ui jo b app banana chaho.
+

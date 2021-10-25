@@ -1,0 +1,1 @@
+The Core folder will contain our classes, like the CatPhoto class.

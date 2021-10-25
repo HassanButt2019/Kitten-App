@@ -1,0 +1,2 @@
+The provider folder contains our provider to connect the UI and application logic
+statemanagement can be used for any statemanagement

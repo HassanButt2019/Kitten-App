@@ -1,0 +1,1 @@
+The Services folder will contain classes to make external calls, like calls to get photos. These classes don’t care about the UI or how the UI wants to display the data. They can throw an exception when something goes wrong.
